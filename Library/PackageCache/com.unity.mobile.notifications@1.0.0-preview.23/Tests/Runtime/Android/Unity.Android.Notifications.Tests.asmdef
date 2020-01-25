@@ -1,0 +1,17 @@
+{
+    "name": "Unity.Android.Notifications.Tests",
+    "references": [
+        "Unity.Notifications.Android"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Android"
+        ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
